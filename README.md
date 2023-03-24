@@ -1,2 +1,2 @@
 # Data-structure
-algorithm
+C C C C C !
