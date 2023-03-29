@@ -84,7 +84,7 @@ void kmpMatch(String* master,String* sub,int* next){
 	}
 }
 int main(){
-	printf("-----------»¶Ó­Ê¹ÓÃKMPËã·¨-----------\n");
+	printf("-----------æ¬¢è¿Žä½¿ç”¨KMPç®—æ³•-----------\n");
 	char* master = "abababababc";
 	char* sub    = "ababc";
 	//scanf("%s",&ch);
